@@ -39,12 +39,4 @@
 
 ---
 
-### 💬 Давайте общаться!
-
-Я открыт к предложениям о стажировке, работе или просто к общению на тему IT.
-
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CuberD)
-
----
-
 
