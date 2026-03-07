@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-*   **Верстка:** Flexbox, Grid, Pixel Perfect, адаптивная и кроссбраузерная верстка.
+*   **Верстка:** Flex, адаптивная и кроссбраузерная верстка.
 *   **JavaScript:** Манипуляции с DOM, события, async/await, Fetch API, работа с JSON.
 
 #### 🧠 В данный момент углубленно изучаю:
